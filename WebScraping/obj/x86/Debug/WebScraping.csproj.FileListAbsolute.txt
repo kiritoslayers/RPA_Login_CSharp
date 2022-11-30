@@ -1,0 +1,17 @@
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\bin\Debug\WebScraping.exe.config
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\bin\Debug\WebScraping.exe
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\bin\Debug\WebScraping.pdb
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\bin\Debug\Telerik.WinControls.dll
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\bin\Debug\TelerikCommon.dll
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\bin\Debug\Telerik.WinControls.xml
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\obj\x86\Debug\WebScraping.Forms.RPA.resources
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\obj\x86\Debug\WebScraping.Properties.Resources.resources
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\obj\x86\Debug\WebScraping.csproj.GenerateResource.cache
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\obj\x86\Debug\WebScraping.exe.licenses
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\obj\x86\Debug\WebScraping.csproj.CoreCompileInputs.cache
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\obj\x86\Debug\WebScraping.csproj.CopyComplete
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\obj\x86\Debug\WebScraping.exe
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\obj\x86\Debug\WebScraping.pdb
+C:\Users\kiritoslayers\source\repos\WebScraping\WebScraping\obj\x86\Debug\WebScraping.csproj.AssemblyReference.cache
